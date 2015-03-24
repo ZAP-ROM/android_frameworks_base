@@ -26,4 +26,3 @@ interface IProcessInfoService
      */
     void getProcessStatesFromPids(in int[] pids, out int[] states);
 }
-
