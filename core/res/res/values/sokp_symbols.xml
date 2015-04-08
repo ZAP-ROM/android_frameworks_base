@@ -26,7 +26,7 @@
   <java-symbol type="string" name="setting_confirmation_ask_me_later" />
   <java-symbol type="string" name="setting_confirmation_yes" />
   <java-symbol type="string" name="setting_confirmation_no" />
-   
+
    <!-- AOKP custom system animations -->
   <java-symbol type="string" name="action_null"/>
   <java-symbol type="string" name="animation_fade"/>
@@ -64,10 +64,13 @@
   <java-symbol type="anim" name="slow_fade_in" />
   <java-symbol type="anim" name="slow_fade_out" />
   <java-symbol type="anim" name="slide_in_up_ribbon" />
-  <java-symbol type="anim" name="slide_out_down_ribbon" /> 
+  <java-symbol type="anim" name="slide_out_down_ribbon" />
   <java-symbol type="anim" name="slide_in_right_no_fade" />
   <java-symbol type="anim" name="slide_out_left_no_fade" />
   <java-symbol type="anim" name="slide_in_left_no_fade" />
   <java-symbol type="anim" name="slide_out_right_no_fade" />
-  
+
+  <!-- Ambient Display-->
+  <java-symbol type="bool" name="config_dozeUseAccelerometer" />
+
 </resources>
