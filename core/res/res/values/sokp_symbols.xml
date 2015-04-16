@@ -72,5 +72,8 @@
 
   <!-- Ambient Display-->
   <java-symbol type="bool" name="config_dozeUseAccelerometer" />
+  
+  <!-- Boot Logo-->
+  <java-symbol type="drawable" name="sokp" />
 
 </resources>
