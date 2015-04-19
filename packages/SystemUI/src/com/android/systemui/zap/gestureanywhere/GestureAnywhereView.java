@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.systemui.sokp.gestureanywhere;
+package com.android.systemui.zap.gestureanywhere;
 
 import java.io.File;
 import java.net.URISyntaxException;
@@ -50,7 +50,7 @@ import android.view.animation.Animation;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.TranslateAnimation;
 import com.android.systemui.R;
-import com.android.systemui.sokp.TriggerOverlayView;
+import com.android.systemui.zap.TriggerOverlayView;
 import com.android.systemui.statusbar.BaseStatusBar;
 
 import static android.view.KeyEvent.ACTION_DOWN;

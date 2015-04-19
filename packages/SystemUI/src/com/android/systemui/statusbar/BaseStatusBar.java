@@ -105,7 +105,7 @@ import com.android.systemui.SearchPanelView;
 import com.android.systemui.SwipeHelper;
 import com.android.systemui.SystemUI;
 import com.android.systemui.cm.SpamMessageProvider;
-import com.android.systemui.sokp.gestureanywhere.GestureAnywhereView;
+import com.android.systemui.zap.gestureanywhere.GestureAnywhereView;
 import com.android.systemui.statusbar.NotificationData.Entry;
 import com.android.systemui.statusbar.NotificationData.Entry;
 import com.android.systemui.statusbar.appcirclesidebar.AppCircleSidebar;

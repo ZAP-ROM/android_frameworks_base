@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.systemui.sokp;
+package com.android.systemui.zap;
 
 import android.app.KeyguardManager;
 import android.content.Context;

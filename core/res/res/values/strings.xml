@@ -3724,13 +3724,13 @@
       has violated its self-enforced StrictMode policy.</string>
 
     <!-- [CHAR LIMIT=40] Title of dialog that is shown when performing a system upgrade. -->
-    <string name="android_upgrading_title">SOKP is upgrading\u2026</string>
+    <string name="android_upgrading_title">ZAP is upgrading\u2026</string>
 
     <!-- [CHAR LIMIT=40] Title of dialog that is shown when system is starting. -->
-    <string name="android_start_title">SOKP is starting\u2026</string>
+    <string name="android_start_title">ZAP is starting\u2026</string>
 
     <!-- [CHAR LIMIT=NONE] Message shown in upgrading dialog when doing an fstrim. -->
-    <string name="android_upgrading_fstrim">SOKP is Optimizing storage.</string>
+    <string name="android_upgrading_fstrim">ZAP is Optimizing storage.</string>
 
     <!-- [CHAR LIMIT=NONE] Message shown in upgrading dialog for each .apk that is optimized. -->
     <string name="android_upgrading_apk">Optimizing app
@@ -3739,10 +3739,10 @@
         <xliff:g id="app_name">%3$s</xliff:g></string>
 
     <!-- [CHAR LIMIT=NONE] Message to show in upgrading dialog when reached the point of starting apps. -->
-    <string name="android_upgrading_starting_apps">SOKP is Initializing apps.</string>
+    <string name="android_upgrading_starting_apps">ZAP is Initializing apps.</string>
 
     <!-- [CHAR LIMIT=NONE] Message to show in upgrading dialog when the bulk of the upgrade work is done. -->
-    <string name="android_upgrading_complete">SOKP is Finishing Boot.</string>
+    <string name="android_upgrading_complete">ZAP is Finishing Boot.</string>
 
     <!-- Notification text to tell the user that a heavy-weight application is running. -->
     <string name="heavy_weight_notification"><xliff:g id="app">%1$s</xliff:g> running</string>
